@@ -1,0 +1,76 @@
+.pax{
+  color: white;
+  font-family: 'VT323', monospace;
+}
+#full{
+  color: white;
+  font-family: 'VT323', monospace;
+}
+.dan{
+    margin-top: 220px;
+    margin-left: 10px;
+    color: aliceblue;
+    
+}
+
+.row{
+    font-family: 'VT323', monospace; 
+    font-size: 17pt;
+}
+.pot{
+    font-family: 'Castoro Titling', cursive;
+}
+body{
+    background-image: url('pexels-francesco-ungaro-96381.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.may{
+    display: inline;
+    margin-bottom: 10px;
+}
+.june{
+    margin-top: 30px;
+    display: inline;
+}
+.fe1{
+   margin-top: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.fe2{
+    font-size: 20pt;
+    color: white;
+    text-align: center;
+    font-family: 'VT323', monospace;
+}
+.man3{
+    margin-top: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.man1, .man2{
+    text-align: center;
+    color: white;
+    font-size: 20pt;
+    font-family: 'VT323', monospace;
+}
+.py-3{
+    color: white;
+}
+.text-center{
+    color: white;
+}
+#mid{
+   font-size: 15pt;
+   text-align: center;
+   color: white;
+   margin-top: 30px;
+   border: 10px solid black;
+   background-color: black;
+   font-family: 'Castoro Titling', cursive;
+}
